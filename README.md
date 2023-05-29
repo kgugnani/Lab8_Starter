@@ -1,4 +1,6 @@
 # Lab 8 - Starter
+Kartik Gugnani <br>
+
 Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why. <br>
 
 I would choose to run the tests within a GitHub Action so everytime some code is pushed to the repository the tests are run. I believe running the tests manually is a step that is easy to forget and could cause a lot of problems if not documented properly, while running the tests automatically would ensure that the tests are run everytime the code is pushed to the repository. <br>
